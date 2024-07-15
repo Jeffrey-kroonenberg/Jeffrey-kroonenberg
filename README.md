@@ -7,7 +7,7 @@ Besides his work, Jeffrey is an avid gamer and a science fiction literature love
 ## 🛠 Skills
 HTML, CSS, LUA
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeffreydevelopment.vom/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeffreydevelopment.com/)
 
 
 ## Other Common Github Profile Sections
