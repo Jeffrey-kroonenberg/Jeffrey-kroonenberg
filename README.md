@@ -5,7 +5,7 @@ Outside of development, Jeffrey is an avid gamer and a  movie lover. He’s alwa
 
 
 ## 🛠 Skills
-  [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)] | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)] | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)] | 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+  [Lua] | 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
 ## 🔗 Links
 [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg) | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)]
 
