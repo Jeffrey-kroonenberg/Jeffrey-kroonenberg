@@ -5,9 +5,9 @@ Outside of development, Jeffrey is an avid gamer and a  movie lover. He’s alwa
 
 
 ## 🛠 Skills
-  [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+  [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ## 🔗 Links
-[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg) | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)]
+[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)](#)
 
 
 ## Other Common Github Profile Sections
