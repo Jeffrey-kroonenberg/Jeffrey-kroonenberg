@@ -1,23 +1,23 @@
 ## 🚀 About Me
-Jeffrey Kroonenberg, an energetic 29-year-old, is a developer with a passion for building innovative software solutions. With a sharp eye for detail and a deep understanding of the latest technologies, he strives to create user -friendly and efficient applications that have a positive impact on the world.
+Jeffrey Kroonenberg, a passionate 29-year-old developer, is dedicated to creating high-end FiveM scripts with a keen eye for detail. With his foundational skills in Lua and experience in the FiveM community, he focuses on delivering user-friendly and efficient scripts that enhance the gaming experience.
 
-Besides his work, Jeffrey is an avid gamer and a science fiction literature lover. He is always looking for new challenges and opportunities to learn and grow, both personally and professional. With his determination and dedication, he is ready to leave a lasting stamp on the world of technology.
+Outside of development, Jeffrey is an avid gamer and a  movie lover. He’s always looking for new challenges and opportunities to learn and grow, both personally and professionally. With his drive and dedication, Jeffrey is ready to make a lasting impact in the FiveM development scene.
 
 
 ## 🛠 Skills
 HTML, CSS, LUA
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeffreydevelopment.com/)
+[![Webshop](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dragondevelopment.nl)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on My Website
+👩‍💻 I'm currently working on Fivem Scripts
 
-🧠 I'm currently learning CSS and HTML
+🧠 I'm currently learning Lua
 
-👯‍♀️ I'm looking to collaborate on Websites
+👯‍♀️ I'm looking to collaborate on FiveM
 
-🤔 I'm looking for help with CSS and HTML
+🤔 I'm looking for help with Lua
 
 💬 Ask me about everything
 
