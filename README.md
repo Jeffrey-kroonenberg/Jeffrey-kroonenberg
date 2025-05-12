@@ -1,29 +1,28 @@
-## 🚀 About Me
-Jeffrey Kroonenberg, a passionate 29-year-old developer, is dedicated to creating high-end FiveM scripts with a keen eye for detail. With his foundational skills in Lua and experience in the FiveM community, he focuses on delivering user-friendly and efficient scripts that enhance the gaming experience.
+# Jeffrey Kroonenberg
 
-Outside of development, Jeffrey is an avid gamer and a  movie lover. He’s always looking for new challenges and opportunities to learn and grow, both personally and professionally. With his drive and dedication, Jeffrey is ready to make a lasting impact in the FiveM development scene.
+## 👨‍💻 About Me
+I am a 30-year-old web services professional passionate about technology and development. Currently focused on creating high-end FiveM scripts with a keen eye for detail.
 
+## 🛠️ Skills
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
 
-## 🛠 Skills
-  [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-## 🔗 Links
-[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)]
+## 🎮 Current Focus
+- Developing FiveM scripts
+- Learning and improving Lua skills
+- Studying at Pre Campus / Sprint
 
+## 🌟 Fun Facts
+- Gaming enthusiast
+- Movie lover
+- Always eager to learn and grow
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Fivem Scripts
+## 🔗 Connect With Me
+[![Website](https://img.shields.io/badge/Website-DragonDevelopment-blue)](http://dragondevelopment.nl/)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)
 
-🧠 I'm currently learning Lua
-
-👯‍♀️ I'm looking to collaborate on FiveM
-
-🤔 I'm looking for help with Lua
-
-💬 Ask me about everything
-
-📫 How to reach me Mail
-
-😄 Pronouns He / Him
-
-⚡️ Fun fact Also a Gamer
-
+---
+*Feel free to reach out for collaborations or discussions!*
