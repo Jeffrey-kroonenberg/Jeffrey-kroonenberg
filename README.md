@@ -1,7 +1,7 @@
 # Jeffrey Kroonenberg
 
 ## 👨‍💻 About Me
-I am a 30-year-old web services professional passionate about technology and development. Currently focused on creating high-end FiveM scripts with a keen eye for detail.
+I am a 30-year-old web services professional passionate about technology and development. Currently focused on creating high-end web scripts with a keen eye for detail.
 
 ## 🛠️ Skills
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
@@ -11,8 +11,8 @@ I am a 30-year-old web services professional passionate about technology and dev
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
 
 ## 🎮 Current Focus
-- Developing FiveM scripts
-- Learning and improving Lua skills
+- Developing Web Apps
+- Learning and improving web skills
 - Studying at Pre Campus / Sprint
 
 ## 🌟 Fun Facts
