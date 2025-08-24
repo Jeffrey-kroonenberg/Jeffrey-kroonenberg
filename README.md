@@ -22,7 +22,7 @@ I am a 30-year-old web services professional passionate about technology and dev
 - Always eager to learn and grow
 
 ## 🔗 Connect With Me
-[![Website](https://img.shields.io/badge/Website-Zerix Development-blue)](http://zerixdevelopment.com/)
+[![Website](https://img.shields.io/badge/Website-ZerixDevelopment-blue)](http://zerixdevelopment.com/)
 
 ---
 *Feel free to reach out for collaborations or discussions!*
