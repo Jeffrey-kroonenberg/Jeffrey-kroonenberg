@@ -12,6 +12,7 @@ I am a 30-year-old web services professional passionate about technology and dev
 
 ## 🎮 Current Focus
 - Developing Web Apps
+- Developing Fibvem apps
 - Learning and improving web skills
 - Studying at Pre Campus / Sprint
 
@@ -21,8 +22,7 @@ I am a 30-year-old web services professional passionate about technology and dev
 - Always eager to learn and grow
 
 ## 🔗 Connect With Me
-[![Website](https://img.shields.io/badge/Website-DragonDevelopment-blue)](http://dragondevelopment.nl/)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://dragondevelopment.nl)
+[![Website](https://img.shields.io/badge/Website-zerixdevelopment-blue)](http://zerixdevelopment.com/)
 
 ---
 *Feel free to reach out for collaborations or discussions!*
